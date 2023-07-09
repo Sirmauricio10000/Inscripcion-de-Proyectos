@@ -1,0 +1,4 @@
+﻿D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Logica\PersonaService.cs
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Logica\PeticionService.cs
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Logica\ProyectoService.cs
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Logica\UsuarioService.cs

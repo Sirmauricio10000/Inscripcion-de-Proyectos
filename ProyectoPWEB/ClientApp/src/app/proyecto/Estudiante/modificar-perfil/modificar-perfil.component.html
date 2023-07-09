@@ -1,0 +1,27 @@
+<div>
+    <app-nav-menu></app-nav-menu>
+</div>
+
+<div class="container">
+
+    <h1>Modificar datos del Estudiante</h1> <br> <br>
+    <form>
+
+        <div class="form-group">
+            <label for="exampleInputPassword1">Nombre</label>
+            <input type="text" class="form-control" name="nombre" [(ngModel)]="usuarioNuevo.nombre">
+        </div>
+
+        <div class="form-group">
+            <label for="exampleInputPassword1">Correo</label>
+            <input type="text" class="form-control" name="correo" [(ngModel)]="usuarioNuevo.correo">
+        </div>
+
+        <div class="form-group">
+            <label for="exampleInputPassword1">Telefono</label>
+            <input type="text" class="form-control" name="telefono" [(ngModel)]="usuarioNuevo.telefono">
+        </div>
+        <button type="submit" class="btn btn-primary" (click)="modificar()">Modificar</button>
+    </form>
+
+</div> <br> <br>

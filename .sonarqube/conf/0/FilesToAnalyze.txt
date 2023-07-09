@@ -1,0 +1,4 @@
+﻿D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Entidad\Persona.cs
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Entidad\Peticion.cs
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Entidad\Proyecto.cs
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Entidad\Usuario.cs

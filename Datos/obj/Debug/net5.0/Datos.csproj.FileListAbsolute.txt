@@ -1,0 +1,93 @@
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\bin\Debug\net5.0\Datos.deps.json
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\bin\Debug\net5.0\Datos.dll
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\bin\Debug\net5.0\ref\Datos.dll
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\bin\Debug\net5.0\Datos.pdb
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\bin\Debug\net5.0\Entidad.dll
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\bin\Debug\net5.0\Entidad.pdb
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\obj\Debug\net5.0\Datos.dll
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\obj\Debug\net5.0\ref\Datos.dll
+D:\WINDOWS10\Documents\GitHub\Proyecto Programacion Web\Datos\obj\Debug\net5.0\Datos.pdb
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\bin\Debug\net5.0\Datos.deps.json
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\bin\Debug\net5.0\Datos.dll
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\bin\Debug\net5.0\ref\Datos.dll
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\bin\Debug\net5.0\Datos.pdb
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\bin\Debug\net5.0\Entidad.dll
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\bin\Debug\net5.0\Entidad.pdb
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.dll
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\ref\Datos.dll
+D:\WINDOWS10\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.pdb
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\bin\Debug\net5.0\Datos.deps.json
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\bin\Debug\net5.0\Datos.dll
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\bin\Debug\net5.0\ref\Datos.dll
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\bin\Debug\net5.0\Datos.pdb
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\bin\Debug\net5.0\Entidad.dll
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\bin\Debug\net5.0\Entidad.pdb
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.dll
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\ref\Datos.dll
+C:\Users\usuario\Documents\GitHub\Proyecto-Programacion-Web\Datos\obj\Debug\net5.0\Datos.pdb
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Datos.deps.json
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Datos.dll
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Datos.pdb
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Entidad.dll
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Entidad.pdb
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.dll
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\refint\Datos.dll
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.pdb
+C:\Users\avcer\Desktop\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\ref\Datos.dll
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Datos.deps.json
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Datos.dll
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Datos.pdb
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Entidad.dll
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Entidad.pdb
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.dll
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\refint\Datos.dll
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.pdb
+D:\avcer\Mau\PRUEBAS ING SOFT 2\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\ref\Datos.dll
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Datos.deps.json
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Datos.dll
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Datos.pdb
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Entidad.dll
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Entidad.pdb
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.csproj.AssemblyReference.cache
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.AssemblyInfoInputs.cache
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.AssemblyInfo.cs
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.csproj.CopyComplete
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.dll
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\refint\Datos.dll
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.pdb
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\ref\Datos.dll
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Datos.runtimeconfig.json
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\bin\Debug\net5.0\Datos.runtimeconfig.dev.json
+C:\Users\avcer\OneDrive\Documentos\Angular\Proyecto-Programacion-Web-main\Datos\obj\Debug\net5.0\Datos.genruntimeconfig.cache
